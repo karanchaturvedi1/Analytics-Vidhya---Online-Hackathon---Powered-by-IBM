@@ -50,6 +50,7 @@ The customer IDs in test data is further randomly divided into Public (50%) and 
 Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over.
 
 IBM Cloud Registration
+
 If you would like to explore the IBM Cloud service, please sign up for IBM cloud using the link below:
  
 Link https://ibm.biz/BdYkpq
